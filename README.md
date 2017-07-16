@@ -4,7 +4,7 @@ You know how people get baby fever? I've been getting a serious case of cat feve
 
 Here is an app that will allow you to make a cat appear on your book. Here is a screenshot of it. (I spent the whole day at the coffee shops sitting in front of my webcam while occasionally holding up a book hoping for a cat to appear. Yet, I was too shy to smile for this pic :pensive:)
 
-![kitten]("/kitten.png")
+![kitten](/kitten.png)
 
 Built with: C#, Unity, Vuforia, :heart: for cats
 
