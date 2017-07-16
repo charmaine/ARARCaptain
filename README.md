@@ -6,6 +6,6 @@ Here is an app that will allow you to make a cat appear on your book. Here is a 
 
 ![kitten](/kitten.png)
 
-Built with: C#, Unity, Vuforia, :heart: for cats
+Built with: C#, Unity, :heart: for cats
 
 <i>If you were interested, I was reading "How Not to Be Wrong- The Power of Mathematical Thinking" by Jordan Ellenberg</i>
